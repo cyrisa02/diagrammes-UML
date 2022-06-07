@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T14:04:33.390Z" agent="5.0 (X11)" etag="nRik2QdXQjVX-Bex6Y2C" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T14:08:43.095Z" agent="5.0 (X11)" etag="4wXCIHIfJ-MVTw8dOkTN" version="19.0.2" type="github">
   <diagram id="4xAlueajEXwUmsY7dy-2" name="Page-1">
-    <mxGraphModel dx="1137" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="TXKYhUwDw8YYV6_7jRAu-154" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;get&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;s&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=48;" parent="1" vertex="1">
           <mxGeometry x="650" y="950" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN3L-UREjOonGRV1Z96q-5" value="Diagramme de classe ECOIT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
