@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T14:07:36.060Z" agent="5.0 (X11)" etag="O6gCyg_k9JsWGl1_BzMS" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T12:04:19.462Z" agent="5.0 (X11)" etag="k2CHfZs42LQJU9Rqde2k" version="20.0.1" type="github">
   <diagram id="-qRK9zbMe1_bCioNVyJd" name="Page-1">
-    <mxGraphModel dx="1769" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="6" value="password                  varchar" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
           <mxGeometry y="104" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="plainPassword         varchar" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+        <mxCell id="15" value="plainPassword         varchar A NE PAS METTRE" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
           <mxGeometry y="130" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7" value="lastname                  varchar" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
@@ -60,10 +60,10 @@
         <mxCell id="szllkgV6eG0ymPAvgswJ-16" value="&lt;div&gt;PENSEZ AU SLUG&lt;/div&gt;&lt;div&gt;quand on veut cliquer sur un bouton URL &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="355" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wmhnd3oU8wE847apBDxU-16" value="&lt;div&gt;ASSOCIATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1:N &lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Ajouter une clé étrangère à la relation côté N&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N:M&lt;/div&gt;&lt;div&gt;Ajouter une table contenant les deux clés étrangères&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1:1&lt;/div&gt;&lt;div&gt;Ajouter une clé étrangère à l&#39;une des deux relations et &lt;br&gt;&lt;/div&gt;&lt;div&gt;une contrainte d&#39;unicité sur cette clé&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wmhnd3oU8wE847apBDxU-16" value="&lt;div&gt;ASSOCIATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1:N &lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Ajouter une clé étrangère à la relation côté N&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N:M&lt;/div&gt;&lt;div&gt;Ajouter une table contenant les deux clés étrangères&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1:1&lt;/div&gt;&lt;div&gt;Ajouter une clé étrangère à l&#39;une des deux relations et &lt;br&gt;&lt;/div&gt;&lt;div&gt;une contrainte d&#39;unicité sur cette clé&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wmhnd3oU8wE847apBDxU-17" value="&lt;div&gt;Note de clarification:&lt;/div&gt;&lt;div&gt;Entités:&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;Attributs:&lt;/div&gt;&lt;div&gt;-Entités 1 (unique, obligatoire&lt;/div&gt;&lt;div&gt;entier, float, chaîne)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contraintes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fonctions :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="wmhnd3oU8wE847apBDxU-17" value="&lt;div&gt;Note de clarification:&lt;/div&gt;&lt;div&gt;Entités:&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;Attributs:&lt;/div&gt;&lt;div&gt;-Entités 1 (unique, obligatoire&lt;/div&gt;&lt;div&gt;entier, float, chaîne)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contraintes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fonctions :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="350" y="630" width="330" height="350" as="geometry" />
         </mxCell>
       </root>
