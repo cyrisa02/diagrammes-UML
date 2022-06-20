@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T12:04:19.462Z" agent="5.0 (X11)" etag="k2CHfZs42LQJU9Rqde2k" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T12:18:45.487Z" agent="5.0 (X11)" etag="WsMLrz17xlUAgFWR7C-T" version="20.0.1" type="github">
   <diagram id="-qRK9zbMe1_bCioNVyJd" name="Page-1">
     <mxGraphModel dx="796" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="wmhnd3oU8wE847apBDxU-17" value="&lt;div&gt;Note de clarification:&lt;/div&gt;&lt;div&gt;Entités:&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;Attributs:&lt;/div&gt;&lt;div&gt;-Entités 1 (unique, obligatoire&lt;/div&gt;&lt;div&gt;entier, float, chaîne)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contraintes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fonctions :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="350" y="630" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sRgHxq2oMYONRJ9w1YdB-18" value="&lt;div&gt;&amp;lt;td&amp;gt;&lt;/div&gt;&lt;div&gt;{% for section in lesson.sections %}&lt;/div&gt;&lt;div&gt;{{section.title}}&lt;/div&gt;&lt;div&gt;{% endfor %}&lt;/div&gt;&lt;div&gt;&amp;lt;/td&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
