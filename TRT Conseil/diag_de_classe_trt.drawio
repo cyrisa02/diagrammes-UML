@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:00:16.206Z" agent="5.0 (X11)" etag="gaRBFkPv0MvdNMThX5pL" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:06:43.418Z" agent="5.0 (X11)" etag="8M3UrozRoF5diuE4Rle9" version="20.0.4" type="github">
   <diagram id="4xAlueajEXwUmsY7dy-2" name="Page-1">
-    <mxGraphModel dx="1137" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
           <mxGeometry x="10" y="15" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LfPHgs6H-1GQvr0upuA2-1" value="CV" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="320" width="180" height="130" as="geometry">
+          <mxGeometry x="50" y="400" width="180" height="130" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -215,6 +215,17 @@
         </mxCell>
         <mxCell id="ufb_tfePXi9zEYzJt0UH-21" value="title                                 varchar  (190)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ufb_tfePXi9zEYzJt0UH-19" vertex="1">
           <mxGeometry y="52" width="256" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="I-ocmR2pLdEPyR1PU4Qc-6" value="Validation" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="180" height="130" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-ocmR2pLdEPyR1PU4Qc-7" value="user_id               int (11)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I-ocmR2pLdEPyR1PU4Qc-6">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="I-ocmR2pLdEPyR1PU4Qc-8" value="jobad_id             int (11)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I-ocmR2pLdEPyR1PU4Qc-6">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
