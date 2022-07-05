@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T13:34:41.109Z" agent="5.0 (X11)" etag="gl1wpLPVD2MEgGs2VP_3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T13:35:17.343Z" agent="5.0 (X11)" etag="11_IHF7m76MNcRnrPLWb" version="20.0.4" type="github">
   <diagram id="4P2TpbgXzhP-4KFeG8Nv" name="Page-1">
     <mxGraphModel dx="1225" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FNlm2keyfV-S8ZdXjNnV-2" value="&lt;div&gt;* CRUD: possibilité pour l&#39;utilisateur&lt;/div&gt;&lt;div&gt;de créer, éditer , modifier et supprimer&lt;/div&gt;&lt;div&gt;&amp;nbsp;l&#39;entité considérée. Les attributs de ces entités seront&lt;/div&gt;&lt;div&gt;&amp;nbsp;présentés dans le diagramme des classes&lt;br&gt;&lt;/div&gt;&lt;div&gt;Le caractère facultatif sera considéré sur le &lt;br&gt;&lt;/div&gt;&lt;div&gt;diagramme des classes.&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="780" width="300" height="90" as="geometry" />
+          <mxGeometry x="520" y="780" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oijMVtfoC-c7ZMny98bf-27" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="50" width="120" height="80" as="geometry" />
