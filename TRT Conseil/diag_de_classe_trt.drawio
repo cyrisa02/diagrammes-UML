@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T09:25:14.187Z" agent="5.0 (X11)" etag="Kt0WYNXeeAvLFle-SCNJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T09:31:06.283Z" agent="5.0 (X11)" etag="d6b2WBMlkRPNHM_gG26k" version="20.0.4" type="github">
   <diagram id="4xAlueajEXwUmsY7dy-2" name="Page-1">
     <mxGraphModel dx="796" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="I-ocmR2pLdEPyR1PU4Qc-2" value="firmAddress         varchar  (190)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lXb_D8qWP0BNydqeNCGy-6" vertex="1">
           <mxGeometry y="132" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="I_Ox4T7YKeCi1-UyE0V7-2" value="zipcode         varchar  (190)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXb_D8qWP0BNydqeNCGy-6">
+        <mxCell id="I_Ox4T7YKeCi1-UyE0V7-2" value="zipcode               varchar  (5)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXb_D8qWP0BNydqeNCGy-6">
           <mxGeometry y="158" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lXb_D8qWP0BNydqeNCGy-14" value="isValided             boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lXb_D8qWP0BNydqeNCGy-6" vertex="1">
